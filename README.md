@@ -16,7 +16,4 @@ dotnet test
 ```
 
 `dotnet restore` restores the packages of both projects.
-`dotnet test` builds both projects and runs all of the configured tests.
-
-[!INCLUDE[DotNet Restore Note](~/includes/dotnet-restore-note.md)]
-
+`dotnet test` builds both projects and runs all of the configured tests
